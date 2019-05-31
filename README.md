@@ -11,8 +11,7 @@ Recuerda instalar GIT en este [link] (https://git-scm.com/download/win). Con el 
 
 ### Pre-requisitos 📋
 
-_Recuerda que para correr esta aplicación debes tener instalado el JDK de java version 1.8+. 
-_Este es un proyecto creado en Netbeans, por lo que igualmente puedes arrancar el proyecto desde el IDE+_
+_Recuerda que para correr esta aplicación debes tener instalado el JDK de java version 1.8+. Este es un proyecto creado en Netbeans, por lo que igualmente puedes arrancar el proyecto desde el IDE+_
 
 ```
 Da un ejemplo
